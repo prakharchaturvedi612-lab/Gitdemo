@@ -4,4 +4,12 @@ class Launch
 {
 System.out.println("Exploring Git and GitHub ) ; 
 }
+
+      public static void fun(){
+           int a = 10 ;
+           int b = 20 ;
+	   sum =  a+b ;
+           System.out.println(sum) ; }
+
+
 }
